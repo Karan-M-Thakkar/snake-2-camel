@@ -1,0 +1,28 @@
+{
+  "name": "snake-2-camel",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "convert data from snake case to camel case",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karan-M-Thakkar/snake-2-camel.git"
+  },
+  "keywords": [
+    "snake",
+    "camel",
+    "snake-to-camel",
+    "snake-2-camel",
+    "snake2camel",
+    "snaketocamel"
+  ],
+  "author": "Karan Thakkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karan-M-Thakkar/snake-2-camel/issues"
+  },
+  "homepage": "https://github.com/Karan-M-Thakkar/snake-2-camel#readme"
+}
